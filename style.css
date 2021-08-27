@@ -1,0 +1,77 @@
+#main .ace-tm {
+    background-color: #1e1e1e;
+}
+#main .ace-tm .ace_selected-word {
+    background-color: #11546f;
+}
+#main .ace-tm .ace_active-line {
+    background-color: #0f0f0f;
+}
+#main .ace-tm .ace_selection {
+    background-color: #0e4583;
+}
+#main .ace-tm {
+    color: #dcdcdc;
+}
+#main .ace-tm .ace_comment,
+#main .ace-tm .ace_eventtext {
+    color: #57a64a;
+}
+#main .ace-tm .ace_constant,
+#main .ace-tm .ace_extmacro {
+    color: #d6a895;
+}
+#main .ace-tm .ace_string {
+    color: #d69d85;
+}
+#main .ace-tm .ace_numeric,
+#main .ace-tm .ace_momenttime {
+    color: #569cd6;
+}
+#main .ace-tm .ace_variable {
+    color: #4ec9b0;
+}
+#main .ace-tm .ace_field,
+#main .ace-tm .ace_localfield {
+    color: #9ed3cf;
+}
+#main .ace-tm .ace_function,
+#main .ace-tm .ace_extfunction {
+    color: #d7ba7d;
+}
+#main .ace-tm .ace_script {
+    color: #c8c8c8;
+}
+#main .ace-tm .ace_asset,
+#main .ace-tm .ace_namespace,
+#main .ace-tm .ace_type {
+    color: #4ec9b0;
+}
+#main .ace-tm .ace_enum {
+    color: #4ec9b0;
+}
+#main .ace-tm .ace_enumfield {
+    color: #b8d7a3;
+}
+#main .ace-tm .ace_macro,
+#main .ace-tm .ace_macroname {
+    color: #bd63c5;
+}
+#main .ace-tm .ace_local,
+#main .ace-tm .ace_sublocal {
+    color: #e4e4e4;
+}
+#main .ace-tm .ace_globalvar,
+#main .ace-tm .ace_globalfield {
+    color: #4ec9b0;
+}
+#main .ace-tm .ace_keyword,
+#main .ace-tm .ace_preproc {
+    color: #569cd6;
+}
+#main .ace-tm .ace_curly.ace_paren {
+    color: #dcdcdc;
+}
+#main .ace-tm .ace_gutter {
+    color: #2b91af;
+}
